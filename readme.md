@@ -121,3 +121,39 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+Baseado no readme encontrado no link : https://github.com/SaintAlmeida/prompt-challenger-personal-ia/edit/main/readme.md
+
+Crie três planos de treino no formato de tabela, uma tabela para cada tipo de corpo e necessidades descritas no readme.   
+
+## Retorno do ChatGPT
+
+
+Aqui estão três planos de treino em formato de tabela, personalizados para cada biotipo corporal mencionado no README do projeto:
+
+1. Plano de Treino para Ectomorfos (Foco em Ganho de Massa)
+Dias/Semana	Tipo de Treino	Tipo de Exercício Preferido
+1 dia	Full Body	Peso Livre, Funcional
+3 dias	ABC	Peso Livre, Maquinário
+5 dias	ABCDE	Peso Livre, HIIT (moderado)
+
+2. Plano de Treino para Mesomorfos (Foco em Definição e Manutenção)
+Dias/Semana	Tipo de Treino	Tipo de Exercício Preferido
+1 dia	Full Body	Funcional, Cardio
+3 dias	ABC	Peso Livre, Maquinário
+5 dias	ABCDE	Peso Livre, HIIT, Cardio
+
+3. Plano de Treino para Endomorfos (Foco em Queima de Gordura)
+Dias/Semana	Tipo de Treino	Tipo de Exercício Preferido
+1 dia	Full Body	Cardio, Funcional
+3 dias	ABC	HIIT, Maquinário
+5 dias	ABCDE	HIIT, Cardio, Funcional
+
+Esses planos são adaptáveis aos dias de treino e preferências de exercício de cada biotipo, com foco nos objetivos típicos de cada um.
+
+
+
+
+
+
+
